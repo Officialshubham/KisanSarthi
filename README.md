@@ -20,7 +20,7 @@ Open Innovation | Agriculture
 - Shivam Thakur | Particiapant
 
 ## Detailed Explanation of the Idea
-The core idea of The KisanSarthi is to aid farmers by providing them best suited information about their crop.
+The core idea of The KisanSarthi is to aid farmers by providing them best suited information about their crop.KisanSarthi is a platform that is built for aiding farmers scientifically in their farming practices. We built three main things that farmers use on daily basis. The first utility is disease identification in which farmers have to upload the image of the leaves of the crop. The platform returns the suggested crop which farmers should grow on their farms. The second utility is crop suggestion in which the farmer has to give some basic information regarding soil nutrients and ph value. Based on this, the platform will suggest the crop which farmers should grow. The third utility is the macro-nutrients suggestion in which the farmer has to provide us with the N-P-K values along with the crop he wants to grow, the platform is able to give the suggestions of nutrients along with some additional information on the nutrients.
 
 ## Solution provided
 Our app makes it easy for the farmer to get information about their crop based on the soil info and weather. Also, they can get info about the crops diseases and fertilizer for crops.
